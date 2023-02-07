@@ -12,5 +12,5 @@ Check out my portfolio at [http://herizo.netlify.app/](http://herizo.netlify.app
 Connect with me on LinkedIn at [https://www.linkedin.com/in/herizo-randrianiaina/](https://www.linkedin.com/in/herizo-randrianiaina/).
 
 
-# menja.herizo
+# DevCard
 <a href="https://app.daily.dev/randrianiaina"><img src="https://api.daily.dev/devcards/3341f02a08e44edd847ab401b0bbf96c.png?r=q1g" width="400" alt="Herizo Nomenjanahary RANDRIANIAINA's Dev Card"/></a>
