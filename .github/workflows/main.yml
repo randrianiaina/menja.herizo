@@ -1,5 +1,3 @@
-- name: @dailydotdev/devcard
-  uses: dailydotdev/action-devcard@2.0.6
 name: DevCard
 
 permissions:
@@ -21,3 +19,4 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+
