@@ -13,4 +13,4 @@ Connect with me on LinkedIn at [https://www.linkedin.com/in/herizo-randrianiaina
 
 
 # DevCard
-<a href="https://app.daily.dev/randrianiaina"><img src="https://api.daily.dev/devcards/3341f02a08e44edd847ab401b0bbf96c.png?r=q1g" width="400" alt="Herizo Nomenjanahary RANDRIANIAINA's Dev Card"/></a>
+<a href="https://app.daily.dev/randrianiainaherizonomenjanahary"><img src="https://api.daily.dev/devcards/v2/w3At8uYa12ijdN0bhlmHI.png?type=wide&r=dar" width="652" alt="RANDRIANIAINA Herizo Nomenjanahary's Dev Card"/></a>
